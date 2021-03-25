@@ -1,11 +1,31 @@
 {
-  "posts": [
+  "data":
+    [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "id":1,
+      "name":"Gopal",
+      "age":23
+    },
+     {
+      "id":2,
+      "name":"Javascript",
+      "age":45
+    },
+     {
+      "id":3,
+      "name":"Python",
+      "age":230
+    },
+     {
+      "id":4,
+      "name":"Html",
+      "age":0
+    },
+     {
+      "id":5,
+      "name":"Css",
+      "age":112
+    },
+    ]
+  
 }
